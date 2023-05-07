@@ -1,0 +1,9 @@
+.equal{
+    border-radius: 30px;
+    width: 22%;
+}
+body{
+    font-size: 23px;
+    background-color: white;
+    color: black;
+}
